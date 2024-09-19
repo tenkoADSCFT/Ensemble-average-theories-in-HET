@@ -292,7 +292,7 @@ margin-left: -55px;
 
 
 .tm-nav-link {
-  color: white;
+  color: blue;
   text-decoration: none;
   padding-bottom: 10px;
   text-shadow: 2px 2px 5px gray;
@@ -306,11 +306,11 @@ margin-left: -55px;
   
   
   .tm-nav-link.focus {
-  	    color: white;
+  	    color:blue;
   }
   
   .tm-nav-link.visited {
-	  color:white;
+	  color:blue;
   }
   
   
