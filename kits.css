@@ -300,8 +300,8 @@ margin-left: -55px;
 
 .tm-nav-link.active,
 .tm-nav-link:hover {
-  border-bottom: 1px solid white;
-    color: white;
+  border-bottom: 1px solid blue;
+    color: blue;
   }
   
   
